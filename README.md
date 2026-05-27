@@ -6,7 +6,7 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
 
 ### 🛠️ Featured Projects
 
-* **[3D-Printed Yagi-Uda Antenna for 868 MHz](https://github.com/judytaferenc/Yagi-Uda-868MHz-Antenna)** – A directional antenna designed, simulated in CST Studio, and built for an educational radio-localization field game ("Fox Hunting").
+* **[3D-Printed Yagi-Uda Antenna for 868 MHz](https://github.com/judyta-ferenc/Yagi-Uda-868MHz-Antenna)** – A directional antenna designed, simulated in CST Studio, and built for an educational radio-localization field game ("Fox Hunting").
 
 ---
 
