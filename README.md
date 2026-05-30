@@ -16,6 +16,7 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
 
 * **[Cellular Network Propagation Simulation at PUT Campus](#)**
   * A radio network coverage and wave propagation simulation in Altair FEKO (WinProp) for the Poznan University of Technology campus.
+  * *Status: In progress*
 
 ---
 
