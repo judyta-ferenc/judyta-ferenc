@@ -7,6 +7,8 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
 
 * **Scientific paper in the field of Satellite Communications**
   * *Status: In progress*
+* **Antenna design and testing for weather satellite reception**
+  * *Status: In progress* 
 
 ---
 ### 🛠️ Featured Projects
