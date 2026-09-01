@@ -5,10 +5,10 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
 ---
 ### 📚 Research & Publications
 
-* **Scientific paper in the field of Satellite Communications**
-  * *Status: In progress*
+* **UAV-SDR Testbed for Resilience Testing of the Satellite Communication Ground Segment**
+  * Status: Accepted for the [KRiT 2026 Conference](https://krit.com.pl/d/zGBUKOTtQKxVvA0BhREFBPF0WUXJuXFhARWcNE1xVCiFBG1g4Fk9tDXd2VnRKDm4KUFBJeXVcWldecRw/krit2026_program.pdf) in Wrocław (September 23-25, 2026)
 * **Antenna design and testing for weather satellite reception**
-  * *Status: In progress* 
+  * Status: In progress 
 
 ---
 ### 🛠️ Featured Projects
