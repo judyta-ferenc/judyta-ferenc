@@ -20,7 +20,7 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
   * A radio coverage and wave propagation simulation for two shared Orange/T-Mobile NR3500 TDD base station sites near the Poznan University of Technology campus.
 
 * **5G SA Virtual Lab**
-  * A virtual 5G Standalone testbed based on Open5GS and UERANSIM for simulating UE–gNB–5GC connectivity, analyzing 5G protocols, and performing network performance experiments.
+  * A virtual 5G Standalone testbed based on Open5GS and UERANSIM for simulating UE-gNB-5GC connectivity, analyzing 5G protocols, and performing network performance experiments.
   * Status: In progress
 
 ---
