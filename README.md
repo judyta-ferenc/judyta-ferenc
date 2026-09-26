@@ -6,7 +6,8 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
 ### 📚 Research & Publications
 
 * **UAV-SDR Testbed for Resilience Testing of the Satellite Communication Ground Segment**
-  * Status: Accepted for the [KRiT 2026 Conference](https://krit.com.pl/d/zGBUKOTtQKxVvA0BhREFBPF0WUXJuXFhARWcNE1xVCiFBG1g4Fk9tDXd2VnRKDm4KUFBJeXVcWldecRw/krit2026_program.pdf) in Wrocław (September 23-25, 2026)
+  * Presented at the KRiT 2026 Conference in Wrocław, September 23-25, 2026.
+  * Published in [*Przegląd Telekomunikacyjny - Wiadomości Telekomunikacyjne* (Rocznik 2026, nr 4, s. 312)](https://sigma-not.pl/zeszyt-8146-%20przeglad-telekomunikacyjny-2026-4.html).
 * **Antenna design and testing for weather satellite reception**
   * Status: In progress 
 
