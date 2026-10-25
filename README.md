@@ -17,8 +17,8 @@ Combining my role as an IT Assistant in Radio Services at Grupa ZPR Media with M
 * **[3D-Printed Yagi-Uda Antenna for 868 MHz](https://github.com/judyta-ferenc/Yagi-Uda-868MHz-Antenna)**
   * A directional antenna designed, simulated in CST Studio, and built for an educational radio-localization field game ("Fox Hunting").
 
-* **[5G NR3500 Coverage and Propagation Simulation around the PUT Campus using Altair WinProp](https://github.com/judyta-ferenc/5G-NR3500-PUT-Campus-WinProp)**
-  * A radio coverage and wave propagation simulation for two shared Orange/T-Mobile NR3500 TDD base station sites near the Poznan University of Technology campus.
+* **[LTE Band 38 Coverage Simulation using Altair WinProp](https://github.com/judyta-ferenc/LTE-B38-PUT-Campus-WinProp)**
+  * LTE Band 38 (2600 MHz) coverage simulation of a Plus base station near the Poznan University of Technology campus, comparing SISO and MIMO configurations to evaluate network performance and accuracy against real measurements.
 
 * **5G SA Virtual Lab**
   * A virtual 5G Standalone testbed based on Open5GS and UERANSIM for simulating UE-gNB-5GC connectivity, analyzing 5G protocols, and performing network performance experiments.
